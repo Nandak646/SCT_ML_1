@@ -1,6 +1,5 @@
 # 🏡 House Price Prediction Web App
 
-This project was developed as **Task 1 during my Internship at SkillCraft Technology**.  
 It is a complete Machine Learning solution that predicts house prices based on key features, with a user-friendly interface powered by **Streamlit**.
 
 ---
